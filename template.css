@@ -67,67 +67,8 @@ body{
     margin-top: 56px;
 }
 .anchor{
-    display: flex;
-    justify-content: center;
-    margin: 0 80px;
-    text-decoration: none;
-    color: #16ff73;
-}
-
-
-.home{
-    border-bottom: 1px solid #ffffff;
-    color: #ffffff;
-    margin-left: 32px;
-    margin-right: 69px;
-    margin-bottom: 10px;
-}
-.p_home{
-    color: white;
-    margin-left: 32px;
-    margin-right: 69px;
-}
-.h1_projects{
-    color: #16ff73;
-    margin-bottom: 32px;
-    justify-content: center;
-    display: flex;
-}
-.pBox{
-    float: left;
-    border:1px solid #16ff73;
-    width:298px;
-    height: 228px;
-    margin-left: 50px;
-    border-radius: 8px;
-}
-.pBox_pai{
-    display: flex;
-    justify-content: center;
-}
-.projectTitle{
-    color: white;
-    display: flex;
-    justify-content: center;
-    margin-top: 30px;
-}
-.viewMore_pai{
-    display: flex;
-    justify-content: center;
-    margin-top: 175px;
-}
-.viewMore{
-    height: 30px;
-    width: 80px;
-    background-color: #404040;
-    color: #16ff73;
-    border: 1px solid #16ff73;
-    border-radius: 16px;
-}
-.viewMore:hover{
-    background-color: #16ff73;
-    color: #404040;
-    transform: scale(1.2);
+    margin-left: 134px;
+    margin-bottom: 54px;
 }
 
 
