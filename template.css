@@ -67,8 +67,11 @@ body{
     margin-top: 56px;
 }
 .anchor{
-    margin-left: 134px;
-    margin-bottom: 54px;
+    display: flex;
+    justify-content: center;
+    margin: 0 80px;
+    text-decoration: none;
+    color: #16ff73;
 }
 
 
