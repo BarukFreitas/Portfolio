@@ -75,7 +75,25 @@ body{
     color: #16ff73;
 }
 
-
+.aboutMe{
+    justify-content: center;
+    display: flex;
+    margin: 50px;
+}
+.aboutMe_name{
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-size: 36px;
+    border-bottom: 1px solid white;
+}
+.aboutMe_p{
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-size: 24px;
+    margin: 0 100px;
+}
 
 .followMe{
     display: flex;
