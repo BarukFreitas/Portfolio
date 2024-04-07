@@ -109,17 +109,21 @@ body{
 .pBox_pai{
     display: flex;
     justify-content: center;
+    margin-right: 45px;
+}
+.image{
+    justify-content: center;
+    display: flex;
+    height: 226px;
+    width: 296px;
+    border-radius: 8px;
 }
 .projectTitle{
     color: white;
     display: flex;
     justify-content: center;
-    margin-top: 30px;
-}
-.viewMore_pai{
-    display: flex;
-    justify-content: center;
-    margin-top: 175px;
+    text-align: center;
+    margin-top: 10px;
 }
 .viewMore{
     height: 30px;
@@ -127,6 +131,9 @@ body{
     background-color: #404040;
     color: #16ff73;
     border: 1px solid #16ff73;
+    justify-content: center;
+    margin-left: 110px;
+    margin-top: 10px;
     border-radius: 16px;
 }
 .viewMore:hover{

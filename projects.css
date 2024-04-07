@@ -134,23 +134,37 @@ body{
     width:298px;
     height: 220px;
     margin-left: 50px;
+    margin-top: 50px;
     border-radius: 8px;
 }
 .pBox_pai{
     display: flex;
     justify-content: center;
-    margin-top: 50px;
+}
+.image{
+    justify-content: center;
+    display: flex;
+    height: 218px;
+    width: 296px;
+    border-radius: 8px;
 }
 .projectTitle{
     color: white;
     display: flex;
     justify-content: center;
-    margin-top: 30px;
+    text-align: center;
+    margin-top: 10px;
 }
-.viewMore_pai{
-    display: flex;
+.viewMore{
+    height: 30px;
+    width: 80px;
+    background-color: #404040;
+    color: #16ff73;
+    border: 1px solid #16ff73;
     justify-content: center;
-    margin-top: 175px;
+    margin-left: 110px;
+    margin-top: 10px;
+    border-radius: 16px;
 }
 .viewMore{
     height: 30px;
